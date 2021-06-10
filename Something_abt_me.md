@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chanceho
+- 👀 I’m interested in fintech and tech products in general
+- 🌱 I’m currently learning python and data analytics (SQL, R)
+- 📫 How to reach me: trangho1409@gmail.com
